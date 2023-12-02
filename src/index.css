@@ -221,6 +221,8 @@ select:focus {
 form .button {
   margin-top: 0.6rem;
   grid-column: 2;
+  width: 130px;
+  margin-left: 35px;
 }
 
 form h2 {
